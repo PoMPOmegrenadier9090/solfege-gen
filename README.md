@@ -6,3 +6,5 @@
 - 公式リポジトリのminimal requirementsをインストール
 - ffmpegのインストール
 - ipykernel, demucsのインストール
+
+#### torchCREPEによるボーカルのMIDI変換
