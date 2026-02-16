@@ -51,7 +51,7 @@ runtime/
 
 #### 実行環境
 
-- Python 3.9〜3.11 (uvを用いて環境構築します)
+- Python 3.11 (uvを用いて環境構築します)
 - macOS M4
 
 #### Apple Silicon (ARM64) での libsamplerate セットアップ
